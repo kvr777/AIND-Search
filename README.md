@@ -1,1 +1,1 @@
-# AIND-Search-Pac-Man
+# AIND-Search-Lab
